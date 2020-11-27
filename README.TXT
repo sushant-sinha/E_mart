@@ -11,5 +11,7 @@ HOW TO START THIS PROJECT:
 Get all the drivers and jars ready.
 Database used is MySQL.
 
-AUTHORS:Sushant Sinha(19BIT0421)
+PLEASE REFER TO THE project_documentation FOR KNOWING THE DETAILED FUNCTION OF EACH COMPONENT.
+
+AUTHORS:Sushant Sinha(19BEE214)
 USER INSTRUCTIONS:I used bluej.
