@@ -8,5 +8,8 @@ PROJECT TITLE:E_MART
 PURPOSE OF PROJECT:DA
 VERSION or DATE:beta
 HOW TO START THIS PROJECT:
-AUTHORS:Sushant Sinha(19BEE0214)
-USER INSTRUCTIONS:use any compiler
+Get all the drivers and jars ready.
+Database used is MySQL.
+
+AUTHORS:Sushant Sinha(19BIT0421)
+USER INSTRUCTIONS:I used bluej.
